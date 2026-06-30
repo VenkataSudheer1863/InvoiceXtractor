@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+groq
+pandas
+openpyxl
+python-dotenv
+pydantic
+boto3
+PyMuPDF
+Pillow
